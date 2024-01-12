@@ -2,3 +2,4 @@ today is friday
 day is 12
 month is january
 yeard is 2024
+Today we have mock text
