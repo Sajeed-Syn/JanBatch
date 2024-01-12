@@ -1,5 +1,5 @@
 today is friday
-day is 12
+day is 13
 month is january
 we are learning git
 yeard is 2024
